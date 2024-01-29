@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "zerg1o",
+	"description": "Proyecto Backend APIs",
+	"keywords": ["Backend","Apis","freecodecamp"],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
